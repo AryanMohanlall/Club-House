@@ -3,6 +3,20 @@
 ## Project description
 A platform where people can make and manage clubs with other people in the same neighborhood 
  
+# Install
+```bash
+npm install
+```
+
+# Run
+```bash
+npx turbo run dev
+```
+
+# Build
+```bash
+npx turbo run build
+```
 
 ## Stake Holders 
  - Neighbors 
